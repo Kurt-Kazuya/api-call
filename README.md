@@ -1,13 +1,14 @@
 **API Demonstration**
+
 Requirements Before starting, make sure you have the following installed:
 Laravel on your computer (or install Herd for a faster and simpler setup)
 Postman Extension for Visual Studio Code
 
 **Setup Instructions**
 
-**After cloning the project, follow these steps:
-**
 
+**FOLLOW THIS STEPS
+**
 Open the project in Visual Studio Code.
 Press Ctrl + J to open the integrated terminal.
 Run the following commands one by one:
