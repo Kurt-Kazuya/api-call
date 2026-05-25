@@ -9,6 +9,7 @@ Postman Extension for Visual Studio Code
 
 **FOLLOW THIS STEPS
 **
+
 Open the project in Visual Studio Code.
 
 Press Ctrl + J to open the integrated terminal.
